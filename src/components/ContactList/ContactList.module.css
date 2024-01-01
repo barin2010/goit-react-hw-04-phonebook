@@ -1,0 +1,22 @@
+.ContactListList {
+  padding: 20px 0;
+}
+
+.contactlistItem {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.contactlistItem:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.ContactListBtn {
+  padding: 5px;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  margin-left: auto;
+}
