@@ -64,7 +64,6 @@ const App = () => {
   return (
     <div
       style={{
-        height: '100vh',
         width: 800,
         display: 'flex',
         flexDirection: 'column',
